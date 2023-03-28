@@ -2,7 +2,7 @@
 <br>
   Olá, eu sou o Matheus!
 <br>
- Graduando em Sistemas de Informação pelo IFNMG - Campuns Januária. <br>
+ Graduando em Sistemas de Informação pelo IFNMG - Campus Januária. <br>
 </h3>
 
 <br>
